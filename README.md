@@ -1,6 +1,6 @@
 PROJETO"FESTEJANDO DO CAMPO A CIDADE"
 
-Nesse projeto foi uasado a bliblioteca p5js, e, para desenvolvelo foi uasado a IA chatgpt
+Nesse projeto foi uasado a bliblioteca p5js.
 
 COMO JOGAR
 
